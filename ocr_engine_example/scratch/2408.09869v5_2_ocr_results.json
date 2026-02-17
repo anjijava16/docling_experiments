@@ -1,0 +1,1161 @@
+[
+  {
+    "uuid": "78d44d76-7e6b-4628-8e86-4600db11cc22",
+    "type": "image",
+    "ocr_text": "No readable text found in image",
+    "ocr_confidence": []
+  },
+  {
+    "uuid": "69849954-f60f-437c-a281-9de008bd35aa",
+    "type": "image",
+    "ocr_text": "PDF Adobe Assemble results, Serialize as Apply document JSON post-processing Markdown Parse OCR Layout Table PDF pages Analysis Structure Model Pipeline",
+    "ocr_confidence": [
+      {
+        "text": "PDF",
+        "confidence": 0.9953252544894204
+      },
+      {
+        "text": "Adobe",
+        "confidence": 0.423817726439406
+      },
+      {
+        "text": "Assemble results,",
+        "confidence": 0.9860610868430286
+      },
+      {
+        "text": "Serialize as",
+        "confidence": 0.7456043385009812
+      },
+      {
+        "text": "Apply document",
+        "confidence": 0.9884902672758824
+      },
+      {
+        "text": "JSON",
+        "confidence": 0.999692976474762
+      },
+      {
+        "text": "post-processing",
+        "confidence": 0.9999671883290641
+      },
+      {
+        "text": "Markdown",
+        "confidence": 0.9999764819439798
+      },
+      {
+        "text": "Parse",
+        "confidence": 0.9999597493330618
+      },
+      {
+        "text": "OCR",
+        "confidence": 0.9996434235230179
+      },
+      {
+        "text": "Layout",
+        "confidence": 0.9997646888872089
+      },
+      {
+        "text": "Table",
+        "confidence": 0.9999793149129292
+      },
+      {
+        "text": "PDF pages",
+        "confidence": 0.9291263954559245
+      },
+      {
+        "text": "Analysis",
+        "confidence": 0.6314999781537785
+      },
+      {
+        "text": "Structure",
+        "confidence": 0.9265121311961151
+      },
+      {
+        "text": "Model Pipeline",
+        "confidence": 0.8107467588747485
+      }
+    ]
+  },
+  {
+    "uuid": "d188106d-713e-4068-a78d-0c51ddf43af5",
+    "type": "image",
+    "ocr_text": "DocLayNet: Large Human-Annotated Dataset for DocLayNet: Large Human-Annotated Dataset document-Lavout AnalysIs Document-Layout Analysis Birgit Fftznun Chrisoph Auer Mickele Dolfi ABSTRACT 3 Hoto CCS CONCEPTS 1 KEYWORDS ACM Reference Format:",
+    "ocr_confidence": [
+      {
+        "text": "DocLayNet:",
+        "confidence": 0.9983811576831519
+      },
+      {
+        "text": "Large Human-Annotated Dataset for",
+        "confidence": 0.9962641348731907
+      },
+      {
+        "text": "DocLayNet:",
+        "confidence": 0.9973124210510609
+      },
+      {
+        "text": "Large Human-Annotated Dataset",
+        "confidence": 0.9009275185070595
+      },
+      {
+        "text": "document-Lavout",
+        "confidence": 0.6422001617000189
+      },
+      {
+        "text": "AnalysIs",
+        "confidence": 0.8051017897659377
+      },
+      {
+        "text": "Document-Layout Analysis",
+        "confidence": 0.7845047438969586
+      },
+      {
+        "text": "Prcadi",
+        "confidence": 0.0059786691600689544
+      },
+      {
+        "text": "{Puncanean Sreeelennnanntntuan",
+        "confidence": 6.646489545248207e-07
+      },
+      {
+        "text": "Birgit Fftznun",
+        "confidence": 0.4728635264949811
+      },
+      {
+        "text": "Chrisoph Auer",
+        "confidence": 0.48260976219698176
+      },
+      {
+        "text": "Mickele Dolfi",
+        "confidence": 0.5935099994063702
+      },
+      {
+        "text": "Onnnae",
+        "confidence": 0.0009181824411302427
+      },
+      {
+        "text": "Aaiich RaeeteEda] 8 =Ther Ee",
+        "confidence": 3.12743889459404e-05
+      },
+      {
+        "text": "Khutenen Ou",
+        "confidence": 0.00040419475476683646
+      },
+      {
+        "text": "LRM Hawarrh",
+        "confidence": 0.045150025677155176
+      },
+      {
+        "text": "IRM Krcarsh",
+        "confidence": 0.08806920145507233
+      },
+      {
+        "text": "IM Resrarch",
+        "confidence": 0.06836300234923058
+      },
+      {
+        "text": "Punetn Aeaneane",
+        "confidence": 0.001309568863477948
+      },
+      {
+        "text": "Oannhnan",
+        "confidence": 0.0005569883189608975
+      },
+      {
+        "text": "SuleLanL",
+        "confidence": 0.07829070146606644
+      },
+      {
+        "text": "SuunLad",
+        "confidence": 0.08048827938865745
+      },
+      {
+        "text": "Rurchlkun Sera Lun",
+        "confidence": 0.2762645872764446
+      },
+      {
+        "text": "teemnnichenm",
+        "confidence": 0.0024882535810619544
+      },
+      {
+        "text": "KonleennchetGunm",
+        "confidence": 0.000757478513357136
+      },
+      {
+        "text": "caneenunaubmcu",
+        "confidence": 0.0009475424681618967
+      },
+      {
+        "text": "eetle",
+        "confidence": 0.0012886161089998554
+      },
+      {
+        "text": "Paecneann San  ennnneruentanaat",
+        "confidence": 3.990858792805942e-06
+      },
+      {
+        "text": "Cnra",
+        "confidence": 0.00044862492359243333
+      },
+      {
+        "text": "Man",
+        "confidence": 0.0007385625685528266
+      },
+      {
+        "text": "Koy Sune",
+        "confidence": 0.01586295228904463
+      },
+      {
+        "text": "Punetn Aeaneane",
+        "confidence": 0.001309568863477948
+      },
+      {
+        "text": "Muehennnnne",
+        "confidence": 0.0016659314712734704
+      },
+      {
+        "text": "EEfCLA",
+        "confidence": 0.014833415689889426
+      },
+      {
+        "text": "IBM RarEch",
+        "confidence": 0.231125080466664
+      },
+      {
+        "text": "Kurechlkon 4terna",
+        "confidence": 0.008858061393446113
+      },
+      {
+        "text": "Leechlbes FNAn",
+        "confidence": 0.0002794347795052038
+      },
+      {
+        "text": "AAfn",
+        "confidence": 0.025742758065462112
+      },
+      {
+        "text": "ABSTRACT",
+        "confidence": 0.9993394714493864
+      },
+      {
+        "text": "3",
+        "confidence": 0.4628232518318818
+      },
+      {
+        "text": "ASIAAC[",
+        "confidence": 0.29659256589324284
+      },
+      {
+        "text": "LnenFen lounltLiaat7 Tceten tthanann FTA ccuen CtetLen Kitreill cne Le",
+        "confidence": 8.12086174534067e-07
+      },
+      {
+        "text": "nn Qutte LA4 Rfetddelua e7xLumamhteoteetntetubndeen Edeonted",
+        "confidence": 6.513023848257633e-07
+      },
+      {
+        "text": "1",
+        "confidence": 0.16431823834570114
+      },
+      {
+        "text": "LcnlnttnneMl",
+        "confidence": 8.657852527848481e-05
+      },
+      {
+        "text": "Fmrte aleleu",
+        "confidence": 9.417485408432853e-05
+      },
+      {
+        "text": "nrendeennntelnnenennneinuen  ennetn Methannenetenecenneiteuenteean etelntuenendnnelale",
+        "confidence": 0.0
+      },
+      {
+        "text": "Imhahlnedeechen Pullttdaneeanle",
+        "confidence": 3.0802251660648796e-05
+      },
+      {
+        "text": "Mataad",
+        "confidence": 0.033296270081376145
+      },
+      {
+        "text": "3 Coaaney",
+        "confidence": 0.0876269640643085
+      },
+      {
+        "text": "Jlte Tie [e",
+        "confidence": 0.00012466558881309188
+      },
+      {
+        "text": "Aenenecnn cnennnen Hrel",
+        "confidence": 0.000601567602243235
+      },
+      {
+        "text": "~Infenre",
+        "confidence": 0.012630853145901955
+      },
+      {
+        "text": "Frt7 Declan",
+        "confidence": 0.00301378809290804
+      },
+      {
+        "text": "Delhtlat",
+        "confidence": 0.00779519077849519
+      },
+      {
+        "text": "Cootternrne eneoeneo=d",
+        "confidence": 2.772124903560318e-07
+      },
+      {
+        "text": "InthleLiue",
+        "confidence": 0.004801036493182106
+      },
+      {
+        "text": "FCncn eenleenn",
+        "confidence": 0.0003799933500091373
+      },
+      {
+        "text": "Anencheneetelnen euan nranentainetitnteuteneNneneneneLeneceen tnnr RennPnF",
+        "confidence": 0.0
+      },
+      {
+        "text": "LEAlad beanbut",
+        "confidence": 0.05479608598431169
+      },
+      {
+        "text": "DecAuta",
+        "confidence": 0.06119509968553926
+      },
+      {
+        "text": "Dau",
+        "confidence": 0.1451427695095259
+      },
+      {
+        "text": "0obrnnd",
+        "confidence": 0.04890966078815779
+      },
+      {
+        "text": "{",
+        "confidence": 0.1681902828051216
+      },
+      {
+        "text": "Stae",
+        "confidence": 0.0005783905507996678
+      },
+      {
+        "text": "Aneeite",
+        "confidence": 0.005149333832160901
+      },
+      {
+        "text": "Jereottte",
+        "confidence": 0.0015399322310730597
+      },
+      {
+        "text": "_ insenned",
+        "confidence": 0.000298176818335249
+      },
+      {
+        "text": "HmTRd",
+        "confidence": 0.0011079219162891062
+      },
+      {
+        "text": "F4nnna",
+        "confidence": 0.0023566587562965755
+      },
+      {
+        "text": "Dete EAAeE 4oS",
+        "confidence": 0.000898217592340808
+      },
+      {
+        "text": "Incintue",
+        "confidence": 0.014164635114577223
+      },
+      {
+        "text": "Jmalyueednmeot",
+        "confidence": 0.0018987738293618714
+      },
+      {
+        "text": "Cne tneneetnneeelene",
+        "confidence": 2.2037282814172666e-07
+      },
+      {
+        "text": "Eeea IC enatziheeend EJnnen",
+        "confidence": 1.1213196302858238e-05
+      },
+      {
+        "text": "Tuuetu mprd ntrau Dobet",
+        "confidence": 0.0002650797352164225
+      },
+      {
+        "text": "Meneteantntnntuneennatne eetelon PXmc Dneletcel nna",
+        "confidence": 2.9554664020967995e-09
+      },
+      {
+        "text": "Hoto",
+        "confidence": 0.30872952938079834
+      },
+      {
+        "text": "{d#Lt",
+        "confidence": 0.012750380989061429
+      },
+      {
+        "text": "Delaed coco Dane",
+        "confidence": 0.0020395050714631037
+      },
+      {
+        "text": "E4 ppnal",
+        "confidence": 0.01079079692859966
+      },
+      {
+        "text": "tnc clakns Leltta",
+        "confidence": 0.0022339706372847177
+      },
+      {
+        "text": "1",
+        "confidence": 0.24199656945299441
+      },
+      {
+        "text": "nnd u Jutk 4 4 InakInn-ulo [i5 Iu",
+        "confidence": 0.002459629017797701
+      },
+      {
+        "text": "Vojeno",
+        "confidence": 0.0322143318610096
+      },
+      {
+        "text": "CCS CONCEPTS",
+        "confidence": 0.800503116185622
+      },
+      {
+        "text": "Wmmn [",
+        "confidence": 0.0034343827958128324
+      },
+      {
+        "text": "Lainnen",
+        "confidence": 0.0009481232764119025
+      },
+      {
+        "text": "Drinten dennen",
+        "confidence": 6.357128629886107e-05
+      },
+      {
+        "text": "Mund tuneua",
+        "confidence": 0.0093407962419303
+      },
+      {
+        "text": "ono",
+        "confidence": 0.009325192562704462
+      },
+      {
+        "text": "Cupu",
+        "confidence": 0.06825060397386551
+      },
+      {
+        "text": "UITea EEe",
+        "confidence": 0.0008094332052396111
+      },
+      {
+        "text": "LOpui",
+        "confidence": 0.04838059894374027
+      },
+      {
+        "text": "4Leadedon",
+        "confidence": 0.08146942625394216
+      },
+      {
+        "text": "[te",
+        "confidence": 0.0025427410722773367
+      },
+      {
+        "text": "eni",
+        "confidence": 0.2232781409681974
+      },
+      {
+        "text": "D7Ap hrd ELpl",
+        "confidence": 0.007850353716466108
+      },
+      {
+        "text": "3e4onn eonlo",
+        "confidence": 0.01851203321611492
+      },
+      {
+        "text": "rrmntad Extoutapundranul",
+        "confidence": 0.002677282374662978
+      },
+      {
+        "text": "stden",
+        "confidence": 0.0015437098761936253
+      },
+      {
+        "text": "mir7152d*do d conntlnotc tdtronedednetantenmenuely Cenea #elelt",
+        "confidence": 1.5060174184721906e-07
+      },
+      {
+        "text": "LetuLi",
+        "confidence": 0.008493383699792557
+      },
+      {
+        "text": "eii",
+        "confidence": 0.0012285140739709622
+      },
+      {
+        "text": "1",
+        "confidence": 0.400188503262374
+      },
+      {
+        "text": "U n",
+        "confidence": 0.0011034492557870353
+      },
+      {
+        "text": "Arnn",
+        "confidence": 0.0033463386353105307
+      },
+      {
+        "text": "Atneninar Mae",
+        "confidence": 0.00020223381192925765
+      },
+      {
+        "text": "tta",
+        "confidence": 0.0018361866847725614
+      },
+      {
+        "text": "Hnronennalan",
+        "confidence": 0.00010493476322163918
+      },
+      {
+        "text": "AdeAn",
+        "confidence": 0.02190877047231804
+      },
+      {
+        "text": "IndnttalnaFaralTe[ aeet 4naneTelala",
+        "confidence": 7.33250807168753e-07
+      },
+      {
+        "text": "Merentecu",
+        "confidence": 0.0003541706167701978
+      },
+      {
+        "text": "Tenr #LAmplt u OEALA pA",
+        "confidence": 0.0021775941758968415
+      },
+      {
+        "text": "Ten cdCO aoieanedend",
+        "confidence": 9.980502146465016e-06
+      },
+      {
+        "text": "IsCOCen",
+        "confidence": 0.015077530926404566
+      },
+      {
+        "text": "rumant cAlrelLIL",
+        "confidence": 0.012547159658717574
+      },
+      {
+        "text": "aotra 94t3t",
+        "confidence": 0.00039137085550050517
+      },
+      {
+        "text": "Aeulin tu",
+        "confidence": 0.028051492859109125
+      },
+      {
+        "text": "cmblcontn",
+        "confidence": 0.005342175140141691
+      },
+      {
+        "text": "[nnuate Aaletit = [enulee EhLLae",
+        "confidence": 9.323458665249215e-05
+      },
+      {
+        "text": "Micham MLm",
+        "confidence": 0.07786884816704541
+      },
+      {
+        "text": "Cempndtr",
+        "confidence": 0.08372139250518904
+      },
+      {
+        "text": "KLY YORDS",
+        "confidence": 0.11239216710810317
+      },
+      {
+        "text": "KEYWORDS",
+        "confidence": 0.490412623986133
+      },
+      {
+        "text": "Fbt EFum",
+        "confidence": 0.0044433232301076455
+      },
+      {
+        "text": "obnt Lalin",
+        "confidence": 0.10592415442054148
+      },
+      {
+        "text": "dala KL Mackoe Lcurning",
+        "confidence": 0.08061651092768056
+      },
+      {
+        "text": "LE3` Me",
+        "confidence": 0.0005454420842281561
+      },
+      {
+        "text": "Lyoyd WeeEaon chech-oraon",
+        "confidence": 3.98193830725591e-05
+      },
+      {
+        "text": "Vachn [anng",
+        "confidence": 0.11125279773650998
+      },
+      {
+        "text": "AOM Baltlent",
+        "confidence": 0.0009879568825384936
+      },
+      {
+        "text": "LeE  eecn",
+        "confidence": 9.119444804524629e-06
+      },
+      {
+        "text": "ACM Reference Format:",
+        "confidence": 0.9425969151531799
+      },
+      {
+        "text": "C [L",
+        "confidence": 0.0023824668023735285
+      },
+      {
+        "text": "[Prteenn Cnaan",
+        "confidence": 0.0013439116083220591
+      },
+      {
+        "text": "Daterat @laetaa]3",
+        "confidence": 0.0003058170721212031
+      },
+      {
+        "text": "OenletdaeHaneaneel Dld",
+        "confidence": 2.3349784732328987e-06
+      },
+      {
+        "text": "Doaumnrou hna InFrardra dna ZhALM BLAbContend DKotaa Dibonr IndDAlMr MED 7 Manl 4I4",
+        "confidence": 9.184519291158719e-05
+      },
+      {
+        "text": "Ky Lai",
+        "confidence": 0.0032597286539678724
+      },
+      {
+        "text": "netut",
+        "confidence": 0.02743823014453868
+      },
+      {
+        "text": "Llr",
+        "confidence": 0.03981278972549384
+      },
+      {
+        "text": "EeuM~",
+        "confidence": 0.011651206189287187
+      }
+    ]
+  },
+  {
+    "uuid": "a8347cc7-66a4-40d4-997f-7868fa366efc",
+    "type": "image",
+    "ocr_text": "No readable text found in image",
+    "ocr_confidence": []
+  },
+  {
+    "uuid": "9db79d0a-91cd-446b-98a9-8d73a620c050",
+    "type": "image",
+    "ocr_text": "84-39 91-99 Footote 62-28 05-91 62-497 Fomln 01-95 35-10 91-02 Ficture 45976 69-71 56-59 69-82 Gu-T 59-76 314 5092 Table 2-86 98-94 79-81 70-25 60-7Z =e 6-7o 74-80 71-76 \"#-cols\" data\" Obor\" 329.04998779296875, 643.40185546875, 483.39764404296875, 051. 7764892578125 \"spans\" triplc 0.5-0.95 (*)\" \"col\" 1-span\" [5,12] , row\" Span\"",
+    "ocr_confidence": [
+      {
+        "text": "7 0t Tatal",
+        "confidence": 0.22872346957612572
+      },
+      {
+        "text": "tnpk inter-Jnnotator mAP 0 0.5-0.95(3",
+        "confidence": 0.23503410836033684
+      },
+      {
+        "text": "ch hmL",
+        "confidence": 0.04250865125495164
+      },
+      {
+        "text": "Count",
+        "confidence": 0.26332721258649094
+      },
+      {
+        "text": "Cese",
+        "confidence": 0.001023267861455679
+      },
+      {
+        "text": "84-39",
+        "confidence": 0.6675408384696143
+      },
+      {
+        "text": "Elt",
+        "confidence": 0.010968659257117874
+      },
+      {
+        "text": "Rafu",
+        "confidence": 0.003384546609595418
+      },
+      {
+        "text": "91-99",
+        "confidence": 0.587644419095545
+      },
+      {
+        "text": "05-00",
+        "confidence": 0.11082402415948309
+      },
+      {
+        "text": "6,0-73",
+        "confidence": 0.16539465135941034
+      },
+      {
+        "text": "uTeral",
+        "confidence": 0.0029762703224473883
+      },
+      {
+        "text": "Anaa",
+        "confidence": 0.0011340528726577759
+      },
+      {
+        "text": "AEAp",
+        "confidence": 0.0067905243486166
+      },
+      {
+        "text": "ITAp",
+        "confidence": 0.007889796048402786
+      },
+      {
+        "text": "Footote",
+        "confidence": 0.5130929167281199
+      },
+      {
+        "text": "61-91",
+        "confidence": 0.198041186908882
+      },
+      {
+        "text": "62-28",
+        "confidence": 0.3741523799761462
+      },
+      {
+        "text": "05-91",
+        "confidence": 0.30703191036570865
+      },
+      {
+        "text": "62-497",
+        "confidence": 0.31775077833529064
+      },
+      {
+        "text": "In en es",
+        "confidence": 0.010769571599999528
+      },
+      {
+        "text": "In en es",
+        "confidence": 0.010769571599999528
+      },
+      {
+        "text": "In en e",
+        "confidence": 0.008925622089866286
+      },
+      {
+        "text": "In en e",
+        "confidence": 0.01178112355239121
+      },
+      {
+        "text": "In enea",
+        "confidence": 0.019419555774499078
+      },
+      {
+        "text": "Inleenea",
+        "confidence": 0.001464638066160987
+      },
+      {
+        "text": "Ineene",
+        "confidence": 0.010118654833882626
+      },
+      {
+        "text": "Fomln",
+        "confidence": 0.5793771448396118
+      },
+      {
+        "text": "750T",
+        "confidence": 0.1665399819612503
+      },
+      {
+        "text": "Aian5",
+        "confidence": 0.011220842217170299
+      },
+      {
+        "text": "46 On",
+        "confidence": 0.17433374097209273
+      },
+      {
+        "text": "N-et",
+        "confidence": 0.1258925199508667
+      },
+      {
+        "text": "435og",
+        "confidence": 0.0024538651416928037
+      },
+      {
+        "text": "37-5",
+        "confidence": 0.06173638626933098
+      },
+      {
+        "text": "743",
+        "confidence": 0.10031666063775409
+      },
+      {
+        "text": "Kusu",
+        "confidence": 0.010637563653290272
+      },
+      {
+        "text": "75-83",
+        "confidence": 0.19461900042675537
+      },
+      {
+        "text": "01-95",
+        "confidence": 0.516275783784778
+      },
+      {
+        "text": "pncontrn",
+        "confidence": 0.04243162868082115
+      },
+      {
+        "text": "ny-",
+        "confidence": 0.0975335283567134
+      },
+      {
+        "text": "949",
+        "confidence": 0.05529827113675413
+      },
+      {
+        "text": "Man",
+        "confidence": 0.03517251132758023
+      },
+      {
+        "text": "Dnela",
+        "confidence": 0.012420226025253797
+      },
+      {
+        "text": "Tlt 5u4",
+        "confidence": 0.004743345967128535
+      },
+      {
+        "text": "Fape-Taur",
+        "confidence": 0.045036852822568536
+      },
+      {
+        "text": "MEe",
+        "confidence": 0.0029550687798378023
+      },
+      {
+        "text": "35-10",
+        "confidence": 0.3261880422434584
+      },
+      {
+        "text": "66-76",
+        "confidence": 0.2794723211257639
+      },
+      {
+        "text": "91-0 ",
+        "confidence": 0.2820910684664263
+      },
+      {
+        "text": "98-I6D",
+        "confidence": 0.15904229930377764
+      },
+      {
+        "text": "91-02",
+        "confidence": 0.3828675547512716
+      },
+      {
+        "text": "07-02",
+        "confidence": 0.10183074508884593
+      },
+      {
+        "text": "Cet",
+        "confidence": 0.0024576002376753736
+      },
+      {
+        "text": "Ficture",
+        "confidence": 0.761373055986246
+      },
+      {
+        "text": "45976",
+        "confidence": 0.8752515415705385
+      },
+      {
+        "text": "69-71",
+        "confidence": 0.8962388752412579
+      },
+      {
+        "text": "56-59",
+        "confidence": 0.6371643556263943
+      },
+      {
+        "text": "82-8u",
+        "confidence": 0.15044373457641838
+      },
+      {
+        "text": "69-82",
+        "confidence": 0.4595442772012056
+      },
+      {
+        "text": "Gu-T",
+        "confidence": 0.3935992419719696
+      },
+      {
+        "text": "59-76",
+        "confidence": 0.5296590954400237
+      },
+      {
+        "text": "Lnctenneh-l",
+        "confidence": 0.0005689423944615372
+      },
+      {
+        "text": "Jyd",
+        "confidence": 0.0016719962793174475
+      },
+      {
+        "text": "314",
+        "confidence": 0.42847786266069665
+      },
+      {
+        "text": "76 &1",
+        "confidence": 0.22022263438380862
+      },
+      {
+        "text": "5092",
+        "confidence": 0.7935450077056885
+      },
+      {
+        "text": "474",
+        "confidence": 0.04506954797641657
+      },
+      {
+        "text": "677",
+        "confidence": 0.18290798460091767
+      },
+      {
+        "text": "ya5",
+        "confidence": 0.008718608196624207
+      },
+      {
+        "text": "Table",
+        "confidence": 0.9656949912769923
+      },
+      {
+        "text": "347J8",
+        "confidence": 0.10421548169088081
+      },
+      {
+        "text": "77-81",
+        "confidence": 0.2934296198992771
+      },
+      {
+        "text": "71-80",
+        "confidence": 0.04069388375106729
+      },
+      {
+        "text": "2-86",
+        "confidence": 0.4087272882461548
+      },
+      {
+        "text": "98-94",
+        "confidence": 0.3645099449803791
+      },
+      {
+        "text": "5s-SU",
+        "confidence": 0.2699987757855791
+      },
+      {
+        "text": "79-81",
+        "confidence": 0.4508494405661281
+      },
+      {
+        "text": "70-25",
+        "confidence": 0.43906687412640333
+      },
+      {
+        "text": "II",
+        "confidence": 0.05725028530918549
+      },
+      {
+        "text": "aai5",
+        "confidence": 0.011392733082175255
+      },
+      {
+        "text": "Mlerh",
+        "confidence": 0.0013748816871342895
+      },
+      {
+        "text": "Crei",
+        "confidence": 0.0005043429555371404
+      },
+      {
+        "text": "Ni9l",
+        "confidence": 0.014015702530741692
+      },
+      {
+        "text": "47.92",
+        "confidence": 0.15497457403215387
+      },
+      {
+        "text": "7179",
+        "confidence": 0.20089839398860931
+      },
+      {
+        "text": "4795",
+        "confidence": 0.1091531366109848
+      },
+      {
+        "text": "60-7Z",
+        "confidence": 0.3015893713263752
+      },
+      {
+        "text": "Cetn",
+        "confidence": 0.003050086088478565
+      },
+      {
+        "text": "=e",
+        "confidence": 0.3053895992911819
+      },
+      {
+        "text": "uo",
+        "confidence": 0.18312021409918877
+      },
+      {
+        "text": "6-7o",
+        "confidence": 0.33756157755851746
+      },
+      {
+        "text": "Ceen",
+        "confidence": 0.0009017909178510308
+      },
+      {
+        "text": "11034Ju",
+        "confidence": 0.15400884497585138
+      },
+      {
+        "text": "49816",
+        "confidence": 0.12675118638219898
+      },
+      {
+        "text": "52-s",
+        "confidence": 0.23114655911922455
+      },
+      {
+        "text": "74-80",
+        "confidence": 0.3827558970659388
+      },
+      {
+        "text": "71-76",
+        "confidence": 0.5573426497552479
+      },
+      {
+        "text": "Tanies",
+        "confidence": 0.10625524388238183
+      },
+      {
+        "text": "\"#-cols\"",
+        "confidence": 0.4443321521174073
+      },
+      {
+        "text": "\"i-rows",
+        "confidence": 0.2265167612711021
+      },
+      {
+        "text": "data\"",
+        "confidence": 0.9799738960210078
+      },
+      {
+        "text": "Obor\"",
+        "confidence": 0.4070181827104347
+      },
+      {
+        "text": "329.04998779296875,",
+        "confidence": 0.7712136709243421
+      },
+      {
+        "text": "643.40185546875,",
+        "confidence": 0.6878002144786701
+      },
+      {
+        "text": "483.39764404296875,",
+        "confidence": 0.9990060657104363
+      },
+      {
+        "text": "051.",
+        "confidence": 0.8295298218727112
+      },
+      {
+        "text": "7764892578125",
+        "confidence": 0.9002269314032716
+      },
+      {
+        "text": "\"spans\"",
+        "confidence": 0.9726679429414388
+      },
+      {
+        "text": "\"icrtua",
+        "confidence": 0.07412436930316124
+      },
+      {
+        "text": "triplc",
+        "confidence": 0.801917557810468
+      },
+      {
+        "text": "Ancreannonaor",
+        "confidence": 0.041289366562729767
+      },
+      {
+        "text": "0.5-0.95 (*)\"",
+        "confidence": 0.348412829330485
+      },
+      {
+        "text": "\"col\"",
+        "confidence": 0.5507334037914793
+      },
+      {
+        "text": "1-span\"",
+        "confidence": 0.5011604214746161
+      },
+      {
+        "text": "[5,12] ,",
+        "confidence": 0.9315744935150772
+      },
+      {
+        "text": "row\"",
+        "confidence": 0.9658358693122864
+      },
+      {
+        "text": "Capra",
+        "confidence": 0.11976115049288746
+      },
+      {
+        "text": "Span\"",
+        "confidence": 0.3255059640581068
+      }
+    ]
+  },
+  {
+    "uuid": "9bf9b5a1-d12d-4494-afdd-feb4051098be",
+    "type": "table",
+    "text": "Table 1: Runtime characteristics of Docling with the standard model pipeline and settings, on our test dataset of 225 pages, on two different systems. OCR is disabled. We show the time-to-solution (TTS), computed throughput in pages per second, and the peak memory used (resident set size) for both the Docling-native PDF backend and for the pypdfium backend, using 4 and 16 threads.\n\n| CPU                     | Thread budget   | native backend   | native backend   | native backend   | pypdfium backend   | pypdfium backend   | pypdfium backend   |\n|-------------------------|-----------------|------------------|------------------|------------------|--------------------|--------------------|--------------------|\n|                         |                 | TTS              | Pages/s          | Mem              | TTS                | Pages/s            | Mem                |\n| Apple M3 Max (16 cores) | 4 16            | 177 s 167 s      | 1.27 1.34        | 6.20 GB          | 103 s 92 s         | 2.18 2.45          | 2.56 GB            |\n| Intel(R) Xeon E5-2690   | 4 16            | 375 s 244 s      | 0.60 0.92        | 6.16 GB          | 239 s 143 s        | 0.94 1.57          | 2.42 GB            |",
+    "caption": "cref='#/texts/72'"
+  },
+  {
+    "uuid": "e6ce4787-1179-47a8-94f3-6768b6062adc",
+    "type": "table",
+    "text": "Table 2: Prediction performance (mAP@0.5-0.95) of object detection networks on DocLayNet test set. The MRCNN (Mask R-CNN) and FRCNN (Faster R-CNN) models with ResNet-50 or ResNet-101 backbone were trained based on the network architectures from the detectron2 model zoo (Mask R-CNN R50, R101-FPN 3x, Faster R-CNN R101-FPN 3x), with default configurations. The YOLO implementation utilized was YOLOv5x6 [13]. All models were initialised using pre-trained weights from the COCO 2017 dataset.\n\n|                                                                                                        | human                                                                   | MRCNN R50 R101                                                                                                          | FRCNN R101                                                  | YOLO v5x6                                                   |\n|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|\n| Caption Footnote Formula List-item Page-footer Page-header Picture Section-header Table Text Title All | 84-89 83-91 83-85 87-88 93-94 85-89 69-71 83-84 77-81 84-86 60-72 82-83 | 68.4 71.5 70.9 71.8 60.1 63.4 81.2 80.8 61.6 59.3 71.9 70.0 71.7 72.7 67.6 69.3 82.2 82.9 84.6 85.8 76.7 80.4 72.4 73.5 | 70.1 73.7 63.5 81.0 58.9 72.0 72.0 68.4 82.2 85.4 79.9 73.4 | 77.7 77.2 66.2 86.2 61.1 67.9 77.1 74.6 86.3 88.1 82.7 76.8 |",
+    "caption": "cref='#/texts/599'"
+  },
+  {
+    "uuid": "2eb359ea-bcce-4c75-bc5b-6b4c0fca5208",
+    "type": "table",
+    "text": "| YOLO   |\n|--------|",
+    "caption": ""
+  }
+]
