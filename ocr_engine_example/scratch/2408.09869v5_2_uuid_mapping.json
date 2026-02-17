@@ -1,0 +1,45 @@
+[
+  {
+    "uuid": "bcc72448-9dd3-4669-a83b-9752c81fb097",
+    "type": "image",
+    "description": "The image is a colorful cartoon-style illustration of a duck holding a piece of paper, designed with a playful aesthetic. Key visual elements include the duck's large, expressive eyes and bright orange color, all framed within a circular border. The main information conveyed suggests a lighthearted or whimsical theme, potentially indicating a fun platform or service related to writing or documentation."
+  },
+  {
+    "uuid": "d92478e2-f43e-47e0-9874-54b60bc57e5b",
+    "type": "image",
+    "description": "The image is a flowchart illustrating a model pipeline for processing PDF documents. Key visual elements include icons representing each step, such as parsing PDF pages, applying Optical Character Recognition (OCR), conducting layout analysis, and structuring tables. The main information conveyed is the sequential process of extracting data from PDFs and preparing it for serialization as JSON or Markdown."
+  },
+  {
+    "uuid": "e5106d65-241a-4471-af08-658d18795ec5",
+    "type": "image",
+    "description": "The image is a research poster detailing the \"DocLayNet\" dataset for document-layout analysis. Key visual elements include multiple columns of text, sections labeled with headings like \"ABSTRACT,\" \"CCS CONCEPTS,\" and \"KEYWORDS,\" as well as sample figures illustrating different document layouts. The main information conveyed revolves around the dataset's importance for improving document processing accuracy and the methodologies applied in its creation."
+  },
+  {
+    "uuid": "29e2d3f0-e913-47f7-9063-93335f8d0932",
+    "type": "image",
+    "description": "The image is a line chart displaying the relationship between the percentage of a training set (DocLayNet) and a performance metric, likely representing some evaluation score. Key visual elements include a black line connecting data points, with the x-axis labeled for the training set percentage and the y-axis indicating the performance measure, along with shaded regions highlighting specific ranges. The main information conveyed illustrates how performance improves with an increasing training set percentage, with notable observations at the end points indicated by red markers."
+  },
+  {
+    "uuid": "a1e29b86-8b27-49c7-8c34-74d2a2eb5e2c",
+    "type": "image",
+    "description": "The image consists of two tables (labeled A and B) that detail statistical data related to various classifications, including counts and performance metrics based on specific annotations. Key visual elements include the class labels, counts, percentages of total, and evaluation metrics (\"triple inter-annotator mAP\") across various categories. The main information conveyed is a comparative analysis of performance metrics across different classes, useful for assessing annotation quality and distribution in a dataset."
+  },
+  {
+    "uuid": "2e606d17-09de-48d8-851a-712b0dad69e7",
+    "type": "table",
+    "description": "The table presents runtime characteristics of the Docling application using two backend systems on a test dataset of 225 pages, focusing on performance metrics such as time-to-solution (TTS), throughput in pages per second, and peak memory usage with OCR disabled. Key columns include the CPU type, thread budget, and performance outputs for both the native and pypdfium backends. Notable trends demonstrate that the Apple M3 Max system generally performs better than the Intel Xeon E5-2690, especially in TTS and throughput with fewer threads. The main takeaway indicates that while the pypdfium backend shows competitive performance, the Docling-native backend leverages hardware efficiency most effectively on the tested configurations.",
+    "caption": "cref='#/texts/72'"
+  },
+  {
+    "uuid": "139f2e90-2ef3-4618-b45a-4faac7de8bc0",
+    "type": "table",
+    "description": "The table presents the prediction performance, measured as mean Average Precision (mAP) at different Intersection over Union (IoU) thresholds, of various object detection networks on the DocLayNet test set. Key columns include \"human,\" which lists performance metrics for human annotations, and several models (MRCNN, FRCNN, YOLO), each with different configurations represented by their backbone networks (e.g., ResNet-50, ResNet-101). Notably, the MRCNN R101 achieved the highest performance in most categories, while the YOLO v5x6 model demonstrated competitive results, particularly in specific object classes. Main insights suggest that architecture sophistication and backbone choice significantly impact detection performance, with MRCNN models generally outperforming their FRCNN counterparts across the board.",
+    "caption": "cref='#/texts/599'"
+  },
+  {
+    "uuid": "9cbc0151-f23a-4e07-9fe7-d82ad39bf0f5",
+    "type": "table",
+    "description": "The table presents a single entry labeled \"YOLO,\" suggesting a primary focus on the concept of \"You Only Live Once.\" With no additional columns or data points, it lacks detailed information or context for analysis. Therefore, the main takeaway is that the table likely implies a theme or idea related to living life to the fullest, but it does not provide quantitative or comparative insights.",
+    "caption": ""
+  }
+]
