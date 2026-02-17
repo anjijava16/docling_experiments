@@ -1,0 +1,32 @@
+{
+  "43a000aa-7542-4b7d-99b8-e342d89dd428": {
+    "description": "This is a digital illustration featuring a stylized, cartoonish duck with large, expressive eyes. The duck is holding a piece of paper in its beak, set against a circular background with a bold outline. The image conveys a playful and approachable tone, possibly suggesting themes of reading or conveying a message.",
+    "format": "png",
+    "alt_text": "Image",
+    "base64_length": 54808
+  },
+  "c61baa2a-8bfa-4977-ad60-00dbf14f4c19": {
+    "description": "This image is a flowchart illustrating a model pipeline for processing PDF documents. It includes steps such as PDF parsing, OCR, layout analysis, and table structure identification, progressing from left to right, indicated by arrows. The final stages involve assembling results, applying document post-processing, and serializing the output as JSON or Markdown, effectively conveying the document conversion process.",
+    "format": "png",
+    "alt_text": "Image",
+    "base64_length": 63024
+  },
+  "7e43096f-6caa-4d06-a9bc-c830eb807d58": {
+    "description": "The image is a screenshot of an academic paper layout. It features the title, authors, and abstract at the top, followed by various diagrams and text sections. There are labeled sections like \"ABSTRACT,\" \"CCS CONCEPTS,\" and \"KEYWORDS,\" as well as a figure demonstrating document layouts. The image aims to present the content and structure of a research paper on Document-Layout Analysis.",
+    "format": "png",
+    "alt_text": "Image",
+    "base64_length": 381780
+  },
+  "1dee8eb0-5655-4730-acfc-d319a1ffc306": {
+    "description": "This image is a line chart with an inset, plotting data points that show a relationship between the percentage of a \"DocLayNet training set\" on the x-axis and a metric labeled \"mAP @.5:.95\" on the y-axis. The main chart shows a curve that rises sharply and then gradually levels off, with a shaded blue area indicating variability or a threshold level. Red symbols at higher y-values indicate important data points or outliers. The inset magnifies the region of the chart with higher percentages, illustrating details in that range to highlight nuances in the data trend.",
+    "format": "png",
+    "alt_text": "Image",
+    "base64_length": 12164
+  },
+  "6bd8d769-3e8a-4bb3-b71c-791e59d35a57": {
+    "description": "This image is a composite of three main sections labeled A, B, and C. \n\n- **Section A and B**: Both contain detailed tables displaying data on class labels, counts, and percentage distributions across various categories, alongside metrics on inter-annotator agreement in different contexts. Section B mirrors A but with slight formatting differences, emphasizing clarity in column labels.\n  \n- **Section C**: Shows JSON-like code, highlighting specific elements such as \"bbox\" coordinates and \"spans,\" related to the textual components of a table.\n\nThe overall purpose of the image is to present structured data analysis and the corresponding markup, likely for understanding data categorization and machine learning performance metrics.",
+    "format": "png",
+    "alt_text": "Image",
+    "base64_length": 204100
+  }
+}

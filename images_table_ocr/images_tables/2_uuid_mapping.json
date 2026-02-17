@@ -1,0 +1,45 @@
+[
+  {
+    "uuid": "edc6f0cc-d31a-4968-9faa-3b6f284b29aa",
+    "type": "image",
+    "description": "The image is a digital illustration featuring a cartoonish, round orange duck with large, expressive eyes. The duck is holding a piece of paper or document, and it is set against a circular black outline, enhancing its playful and cute appearance. The main information conveyed is a whimsical and approachable character, suggesting a friendly or engaging theme, possibly related to information sharing or communication."
+  },
+  {
+    "uuid": "d03380b4-ce87-49da-8fc5-5c9f8eb57f73",
+    "type": "image",
+    "description": "The image is a diagram illustrating a model pipeline for processing PDF documents. Key visual elements include icons representing different stages like parsing, OCR (Optical Character Recognition), layout analysis, and table structure organization, each connected by arrows to indicate the flow of data. The main information conveyed is the sequential process of transforming a PDF into structured data, culminating in serialization as JSON or Markdown."
+  },
+  {
+    "uuid": "0b3b3622-9285-4e34-a621-832c79254baf",
+    "type": "image",
+    "description": "The image is a research poster showcasing \"DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis.\" It includes a mix of text, diagrams, and images, detailing the dataset's development and applications in document layout analysis. Key visual elements feature the abstract, research purpose, methodology, and figures that illustrate various document layouts, effectively conveying the significance and accuracy of their dataset in improving document processing tasks."
+  },
+  {
+    "uuid": "fccdbae0-448a-46fa-a4a4-e9031aa2f469",
+    "type": "image",
+    "description": "The image is a line chart depicting the relationship between the percentage of the DocLayNet training set and model performance, measured by a specific metric (likely accuracy or error rate). Key visual elements include a main curve with black data points connected by a line, and an inset graph that zooms in on a specific range of the data. The main information conveyed indicates that as the percentage of the training set increases, the model performance improves, particularly highlighting the performance plateau at higher percentages."
+  },
+  {
+    "uuid": "87d646e3-66e6-4d19-8919-1c9965ec0d9d",
+    "type": "image",
+    "description": "The image contains two detailed tables (labeled A and B) presenting statistical data related to various class labels and their respective metrics. Key visual elements include columns for counts, percentages of total, and inter-annotator agreement measured by mAP (mean Average Precision) across various categories. The main information conveyed highlights the distribution and performance metrics for different classes such as Caption, Footnote, and Table, emphasizing their respective training, testing, and validation statistics."
+  },
+  {
+    "uuid": "f43afdd1-051f-4dff-a68b-d44f7dfce9b2",
+    "type": "table",
+    "description": "The table presents the runtime characteristics of the Docling software with various backend options and thread configurations on two different CPU systems (Apple M3 Max and Intel Xeon E5-2690) for a test dataset of 225 pages, with OCR disabled. Key columns include Time-to-Solution (TTS), Throughput (Pages per second), and Peak Memory Usage (Resident Set Size), showcasing the performance metrics for both the Docling-native PDF and pypdfium backends with 4 and 16 threads. Notably, the Apple M3 Max outperforms the Intel Xeon E5-2690 in TTS and pages processed per second, achieving faster processing times and higher throughput, particularly with the pypdfium backend. The main takeaway is that the Apple M3 Max provides superior performance with both backends at higher thread counts, indicating its efficiency with the Docling software.",
+    "caption": "cref='#/texts/72'"
+  },
+  {
+    "uuid": "2b236c93-ca1b-43d9-9739-0fb0eece1e16",
+    "type": "table",
+    "description": "The table presents a comparison of different object detection models across various metrics, labeled as \"human,\" \"MRCNN R50 R101,\" \"FRCNN R101,\" and \"YOLO v5x6.\" Key columns indicate the performance scores for these models on specific tasks, with values representing their respective accuracy or effectiveness. Notably, the YOLO v5x6 model demonstrates the highest performance in many cases, particularly with its scores in the upper 80s, while the MRCNN R50 R101 shows variability but generally lower scores. The main insight is that YOLO v5x6 consistently outperforms the other models, suggesting it may be the preferable choice for object detection tasks in this data set.",
+    "caption": ""
+  },
+  {
+    "uuid": "0e9e82c8-f5ed-40e9-83e9-410ca0420929",
+    "type": "table",
+    "description": "The table presents data on various sales metrics for different products over a specific period. Key columns include \"Product Name,\" which identifies the items sold, \"Sales Volume,\" representing the quantity sold, and \"Revenue,\" indicating the total income generated from sales. Notable trends may include high sales volume for certain products, suggesting popularity, and varying revenue figures that could indicate differences in pricing or profit margins. The main insight is that analyzing sales data can help identify top-performing products and inform inventory strategy.",
+    "caption": ""
+  }
+]

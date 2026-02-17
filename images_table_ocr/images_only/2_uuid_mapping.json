@@ -1,0 +1,27 @@
+{
+  "fd100711-b54e-4f15-9623-b1212f35c1a1": {
+    "description": "The image is a cartoon-style illustration of a cute, orange duck holding a piece of paper, set within a circular frame. The duck's oversized eyes and rounded features emphasize its charm, while the contrasting black outline highlights the character against a white background. The main insight conveyed is a whimsical and friendly tone, possibly suggesting a playful approach to communication or documentation.",
+    "format": "png",
+    "alt_text": "Image"
+  },
+  "5d96230e-6ea0-439e-a0b6-ef76f0c0bc70": {
+    "description": "The image is a flowchart that illustrates a model pipeline for processing PDF documents. Key visual elements include icons representing different stages such as \"Parse PDF pages,\" \"OCR,\" \"Layout Analysis,\" and \"Table Structure,\" connected by arrows indicating the sequential flow of information. The main insight conveyed is the systematic approach to converting PDF content into structured formats like JSON or Markdown, highlighting the steps involved in analyzing and processing the document.",
+    "format": "png",
+    "alt_text": "Image"
+  },
+  "8dea4f76-9c73-47a5-ab45-3978b1d99c7f": {
+    "description": "The image is a research poster summarizing the \"DocLayNet\" dataset for document-layout analysis. Key visual elements include the abstract, author names, and figure examples that illustrate various document layouts and the analysis techniques discussed. The main insights conveyed involve the importance of accurate document layout analysis and the effectiveness of the DocLayNet dataset for improving various document processing applications.",
+    "format": "png",
+    "alt_text": "Image"
+  },
+  "bbd1946f-80dd-44a3-8fc8-a08ff99a2c8f": {
+    "description": "The image is a line graph depicting the relationship between the percentage of the DocLayNet training set and the corresponding performance metric (measured in mAP) on two different scales (main and inset). Key visual elements include a main plot with a black line indicating mAP performance points (marked with black dots) and an inset demonstrating a focused view of the lower range of the data. The graph suggests that increasing the training set percentage leads to improved performance, with a plateau reached at higher percentages.",
+    "format": "png",
+    "alt_text": "Image"
+  },
+  "b23258a7-afc7-43ea-b9eb-a11286cd6a01": {
+    "description": "The image features a structured data presentation, consisting of tables (A and B) that summarize statistical information regarding various class labels and their annotation metrics. Key visual elements include columns for \"Count,\" \"% of Total,\" and \"triple inter-annotator mAP @ 0.5-0.95 (%)\" for multiple categories, demonstrating the relationships between class labels and their respective values across training, testing, and validation sets. The main insights conveyed involve the performance and distribution of these class labels, highlighting their significance in an annotation context, along with their inter-annotator agreement scores.",
+    "format": "png",
+    "alt_text": "Image"
+  }
+}
